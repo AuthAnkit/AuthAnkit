@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ankit Singh 👋
 
-<!--
-**AuthAnkit/AuthAnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | Java | Spring Boot  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a backend developer focused on building scalable and clean REST APIs using Spring Boot.  
+Currently learning system design and improving real-world backend skills.
+
+---
+
+## 🚀 Projects
+
+### 🚖 TripEase – Cab Booking System
+- Built a backend system like Uber using Spring Boot  
+- Auto assigns available cabs  
+- Calculates fare based on distance  
+- Sends email confirmation after booking  
+
+**Tech:** Java, Spring Boot, JPA, MySQL  
+
+---
+
+## 🛠 Tech Stack
+- Java  
+- Spring Boot  
+- MySQL  
+- REST APIs  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/ankit-s-2495862b1/
+- Email: authankit@gmail.com
+
+---
