@@ -1,7 +1,7 @@
 # Hi, I'm Ankit Singh 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Specialist;DSA+%7C+System+Design+Learner;Building+Scalable+Real-World+Projects;Open+to+Internships+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Specialist;DSA+%7C+System+Design+Learner;Building+Scalable+Applications;Open+to+Internships+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ## 🧠 About Me
 
 💻 Backend Developer focused on building **scalable & production-ready REST APIs**
-🚀 Actively improving **System Design, DSA & Microservices Architecture**
-📌 Passionate about solving **real-world problems through code**
-⚡ Consistent learner aiming for top tech roles
+🚀 Currently improving **System Design, DSA & Backend Architecture**
+📌 Passionate about solving **real-world problems using Java & Spring Boot**
+⚡ Consistent learner aiming for strong backend engineering roles
 
 ---
 
@@ -25,9 +25,7 @@
 
 ### 🟢 GeeksforGeeks
 
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=authankit" />
-</p>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge\&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/authankit)
 
 ---
 
@@ -71,18 +69,14 @@
 ---
 
 ## 📸 Project Screenshots
-
-🚧 Coming Soon (Add these to boost credibility)
-
-* IntelliJ project running
-* API requests via Postman
-* Email confirmation demo
+<img width="710" height="407" alt="Screenshot 2026-04-25 095858" src="https://github.com/user-attachments/assets/60fc8d31-76f0-4091-948a-2391f55563bd" />
+<img width="1459" height="968" alt="Screenshot 2026-04-27 125211" src="https://github.com/user-attachments/assets/854fd14c-c9fc-4378-ac8f-c5f01d14c1ae" />
 
 ---
 
 ## 📈 What I'm Learning
 
-📌 System Design (Scalability, Load Handling, Concurrency)
+📌 System Design (Scalability, Concurrency, Load Handling)
 📌 Advanced Spring Boot & Microservices
 📌 Backend Performance Optimization
 
@@ -91,7 +85,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AuthAnkit&theme=dark&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AuthAnkit&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=AuthAnkit&theme=dark&hide_border=true" />
 </p>
@@ -105,4 +99,4 @@
 
 ---
 
-⭐ *"Focused on becoming a top backend engineer — building, scaling, and solving real problems."*
+⭐ *"Focused on becoming a strong backend engineer — building scalable systems and solving real-world problems."*
